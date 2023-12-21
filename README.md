@@ -2,10 +2,10 @@ In this project, we'll create endpoints to serve information about different rec
 
 Our API will consist of the following endpoints:
 
-Post a new recipe
-Get all recipes
-Get a recipe by its title
-Search recipes by ingredients
-Search recipes by cuisines
-Update an existing recipe
-Delete a recipe
+- Post a new recipe
+- Get all recipes
+- Get a recipe by its title
+- Search recipes by ingredients
+- Search recipes by cuisines
+- Update an existing recipe
+- Delete a recipe
