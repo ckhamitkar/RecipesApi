@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RecipesApi</name>
+    </assembly>
+    <members>
+        <member name="M:Recipes_api.Controllers.RecipesController.PostRecipes(Recipes_api.Models.Recipe)">
+            <summary>
+            Post a new recipe
+            </summary>
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.GetRecipes">
+            summary
+            Retrieve all recipes
+            summary 
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.GetFilterRecipesByIngredients(System.String)">
+            <summary>
+            Search recipes by ingredients
+            </summary>
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.GetFilterRecipesByCuisine(System.String)">
+            <summary>
+            Search recipes by cuisine
+            </summary>
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.GetFilterRecipesByTitle(System.String)">
+            <summary>
+            Search a recipe by its title.
+            </summary>
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.DeleteRecipe(System.Int32)">
+            <summary>
+            Delete a recipe
+            </summary>
+        </member>
+        <member name="M:Recipes_api.Controllers.RecipesController.PutRecipe(System.Int32,Recipes_api.Models.Recipe)">
+            <summary>
+            Update a recipe
+            </summary>
+        </member>
+    </members>
+</doc>
